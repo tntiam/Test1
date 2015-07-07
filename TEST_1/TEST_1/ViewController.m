@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     // lt 1 test
+    // Feature 2 test
 }
 
 - (void)didReceiveMemoryWarning {

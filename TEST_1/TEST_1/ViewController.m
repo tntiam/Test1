@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     // Tran trong nghia test 1
     // lt 1 test
+    // Feature 2 test
+    // Feature 3 test
 }
 
 - (void)didReceiveMemoryWarning {
